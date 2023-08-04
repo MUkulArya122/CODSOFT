@@ -1,0 +1,128 @@
+
+.header .navbar .container-fluid .navbar-brand img{
+    height: 120px;
+    margin-top: -30px;
+    margin-bottom: -35px;
+}
+.nav-item {
+    margin-top: -10px;
+    float: right;
+    font-size: 20px;
+}
+.d-flex{
+    margin-top: -5px;
+}
+
+.banner-container{
+    background-size: cover;
+    background-image: url(Img/Banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 90vh;
+    margin-top: -8px;
+}
+
+
+.banner-heading01{
+    color: rgb(252, 252, 252);
+    font-size: 180px;
+    padding-left: 970px;
+}
+.banner-heading02{
+    color:rgb(252, 252, 252);
+    font-size: 100px;
+    padding-left: 850px;
+}
+
+
+.container{
+    margin-top: 5%;
+}
+.col-6 img{
+    height: 30vh;
+}
+
+
+.chef01 img{
+    height: 30vh;
+}
+.chef01{
+    padding-top: 5%;
+    text-align: center;
+}
+.head01{
+    padding-top: 3%;
+    text-align: center;
+}
+
+
+.container-service{
+    padding-top: 8%;
+}
+.serv{
+    margin: 10px;
+    box-shadow: 0px 3px 10px grey;
+}
+.serv img{
+    height:10vh;
+    padding-top: 2% 
+}
+
+#menu .nav-pills .nav-link{
+    background-color: white;
+    margin-left: 8px;
+    margin-right: 80x;
+    color: black;
+    border-radius: 100px;
+    box-shadow: 0 10px 40px gray
+}
+
+#menue .nav-pills .nav-link .active{
+    background-color:rgb(255, 111, 1);
+    background: cover;
+    color: aliceblue;
+    
+}
+.menu-item{
+    
+}
+.img-menu{
+    height: 22vh;
+    background-position: center;
+}
+.stars{
+   color : orange;
+}
+
+
+.Booking{
+    position: relative;
+    min-height: 600px;
+    background: url(Img/Booking\ table.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.form01{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.title{
+    color: darkorange;
+}
+.lab{
+    color: darkorange;
+}
+.btn-primary{
+    background-color: darkorange;
+    color: aliceblue;
+    background: cover;
+}
+
+.footer-top{
+    height: 100px;
+}
+
+.social{
+    color: white;
+    height: 60vh;
+}
